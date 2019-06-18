@@ -15,7 +15,7 @@ Comment3 "License: CC by 4.0"
 Comment4 "Author: Jordan Aceto"
 $EndDescr
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 1 1 5CFC321B
 P 3150 1900
 F 0 "U1" H 3150 2265 50  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "" H 3250 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 5 1 5CFCA84C
 P 5400 4850
 F 0 "U1" H 5628 4896 50  0000 L CNN
@@ -37,7 +37,7 @@ F 3 "" H 5500 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 6 1 5CFCB180
 P 7150 4200
 F 0 "U1" H 7167 4565 50  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "" H 7250 4100 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 7 1 5CFCBB67
 P 3750 6900
 F 0 "U1" H 3808 7315 50  0000 C CNN
@@ -122,7 +122,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 1350 3000 1350
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 2 1 5CFE101D
 P 4950 1900
 F 0 "U1" H 4950 2265 50  0000 C CNN
@@ -223,7 +223,7 @@ $EndComp
 Wire Wire Line
 	4300 2400 4300 2300
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 3 1 5CFE7D31
 P 6750 1900
 F 0 "U1" H 6750 2265 50  0000 C CNN
@@ -324,7 +324,7 @@ $EndComp
 Wire Wire Line
 	6100 2400 6100 2300
 $Comp
-L my_parts:CEM3320 U1
+L CEM3320_LPF_plug_in_board-rescue:CEM3320-my_parts U1
 U 4 1 5CFF2FBA
 P 8550 1900
 F 0 "U1" H 8550 2265 50  0000 C CNN

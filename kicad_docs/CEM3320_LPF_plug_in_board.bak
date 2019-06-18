@@ -824,8 +824,6 @@ Text Notes 9200 5700 0    50   ~ 0
 feedback CV: 0V to +2.048V
 Text Notes 1050 4450 0    50   ~ 0
 frequency CV: 0V to +2.048V
-Text Notes 4400 4850 0    50   ~ 0
-+155mV to -25mV
 $Comp
 L Amplifier_Operational:TL072 U2
 U 1 1 5D27E7FC
