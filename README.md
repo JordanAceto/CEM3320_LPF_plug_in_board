@@ -45,7 +45,7 @@ A bipolar 12 volt power supply is required. This will typically come from the mo
 ## Parts Ordering
 The BOM has a link to a Mouser project with the majority of the parts needed to build the board, with the exception of the CEM3320. There is a link to the synthcube parts page, where the AS3320 is available. This is a functionally equivalent part that is currently in production.
 
-The BOM will has a link to OSHPark, where you can order boards. Zipped gerber files are also located in kicad_docs.
+The BOM has a link to OSHPark, where you can order boards. Zipped gerber files are also located in kicad_docs.
 
 
 ## License
