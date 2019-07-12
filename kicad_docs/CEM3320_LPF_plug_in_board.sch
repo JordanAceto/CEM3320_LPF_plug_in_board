@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "CEM3320 LPF plug-in board"
-Date "2019-06-09"
+Date "2019-07-12"
 Rev "1"
 Comp ""
 Comment1 ""

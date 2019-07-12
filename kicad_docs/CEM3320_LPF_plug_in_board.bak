@@ -1102,13 +1102,13 @@ Connection ~ 6300 6900
 $Comp
 L Amplifier_Operational:TL072 U2
 U 3 1 5D6AB760
-P 5850 6900
-F 0 "U2" H 6000 7050 50  0000 C CNN
-F 1 "TL072" H 6000 6700 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 5850 6900 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5850 6900 50  0001 C CNN
-	3    5850 6900
-	-1   0    0    1   
+P 6050 6900
+F 0 "U2" H 5750 7050 50  0000 C CNN
+F 1 "TL072" H 5750 6750 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 6050 6900 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6050 6900 50  0001 C CNN
+	3    6050 6900
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+12V #PWR016
