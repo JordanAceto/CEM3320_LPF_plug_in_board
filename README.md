@@ -2,7 +2,7 @@
 
 Small CEM3320 based low pass filter PCB, designed to plug into a larger motherboard.
 
-![](pics/board_top.png)
+![](pics/pcb_front.png) ![](pics/pcb_rear.png)
 
 
 ## Details
@@ -45,7 +45,7 @@ A bipolar 12 volt power supply is required. This will typically come from the mo
 ## Parts Ordering
 The BOM has a link to a Mouser project with the majority of the parts needed to build the board, with the exception of the CEM3320. There is a link to the synthcube parts page, where the AS3320 is available. This is a functionally equivalent part that is currently in production.
 
-The BOM has a link to OSHPark, where you can order boards. Zipped gerber files are also located in kicad_docs.
+Gerbers can be generated from the kicad_docs.
 
 
 ## License
