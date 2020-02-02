@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:CEM3320_LPF_plug_in_board-cache
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -755,7 +756,7 @@ U 1 1 5D1B7A36
 P 2950 5600
 F 0 "RV2" V 2850 5650 50  0000 R CNN
 F 1 "100k" V 2950 5700 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 2950 5600 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 2950 5600 50  0001 C CNN
 F 3 "~" H 2950 5600 50  0001 C CNN
 	1    2950 5600
 	0    1    -1   0   
@@ -796,7 +797,7 @@ U 1 1 5D229E01
 P 7050 5100
 F 0 "RV3" H 7000 5100 50  0000 R CNN
 F 1 "100k" V 7050 5200 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 7050 5100 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 7050 5100 50  0001 C CNN
 F 3 "~" H 7050 5100 50  0001 C CNN
 	1    7050 5100
 	-1   0    0    1   
@@ -930,7 +931,7 @@ U 1 1 5D1B701B
 P 2150 4750
 F 0 "RV1" H 2050 4750 50  0000 R CNN
 F 1 "10k" V 2150 4800 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 2150 4750 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical" H 2150 4750 50  0001 C CNN
 F 3 "~" H 2150 4750 50  0001 C CNN
 	1    2150 4750
 	1    0    0    1   
